@@ -54,5 +54,5 @@ window.addEventListener('scroll', () =>{
         getPhotos();
     }
 })
-// getPhotos();
+getPhotos();
 console.log(document.body.offsetHeight)
